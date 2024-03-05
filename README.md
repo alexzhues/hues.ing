@@ -1,6 +1,6 @@
 
 <div class="cover-photo">
-  <img src="/resources/readme-bg.jpg" alt="Portfolio Cover Photo" width="100%" height="300px" >
+  <img src="/resources/readme.png" alt="Portfolio Cover Photo" width="100%" height="300px" >
 </div>
 
 # Alex Huesing's Personal Website
