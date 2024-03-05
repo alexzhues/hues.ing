@@ -1,3 +1,5 @@
+
+  ![Alt text for your image](/resources/readme-bg.jpg)
 # Alex Huesing's Personal Website
 
 This repository contains the source files for my personal website built with **Bootstrap** and hosted on **GitHub Pages**.
