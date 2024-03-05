@@ -1,10 +1,9 @@
 
+
+# Alex Huesing's Personal Website
 <div class="cover-photo">
   <img src="/resources/readme.png" alt="Portfolio Cover Photo" >
 </div>
-
-# Alex Huesing's Personal Website
-
 This repository contains the source files for my personal website built with **Bootstrap** and hosted on **GitHub Pages**.
 
 ## About Me
