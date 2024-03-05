@@ -1,5 +1,8 @@
 
-  ![Alt text for your image](/resources/readme-bg.jpg)
+<div class="cover-photo">
+  <img src="/resources/readme-bg.jpg" alt="Portfolio Cover Photo" width="100%" height="400px">
+</div>
+
 # Alex Huesing's Personal Website
 
 This repository contains the source files for my personal website built with **Bootstrap** and hosted on **GitHub Pages**.
