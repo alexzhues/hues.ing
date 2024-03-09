@@ -1,5 +1,5 @@
 
-
+![hues.ing](icon.svg) 
 # Alex Huesing's Personal Website
 
 This repository contains the source files for my personal website built with **Bootstrap** and hosted on **GitHub Pages**.
