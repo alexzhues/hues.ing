@@ -1,9 +1,7 @@
 /**
-* Template Name: iPortfolio
-* Updated: Jan 29 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Updated: March 9, 2024
+* Author: Alex Huesing
+* License: MIT (https://opensource.org/licenses/MIT) 
 */
 
 /*--------------------------------------------------------------
@@ -340,7 +338,8 @@ section {
 }
 
 .section-title p {
-  margin-bottom: 0;
+  text-indent: 20px; /* Adjust the indent amount as desired */
+  margin-bottom: 15px; /* Adjust the space between paragraphs */
 }
 
 /*--------------------------------------------------------------
